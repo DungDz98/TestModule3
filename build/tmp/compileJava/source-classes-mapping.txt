@@ -1,0 +1,10 @@
+controller/ManageProduct.java
+ controller.ManageProduct
+dao/ConnDAO.java
+ dao.ConnDAO
+dao/ProductDAO.java
+ dao.ProductDAO
+model/Product.java
+ model.Product
+dao/CategoryDAO.java
+ dao.CategoryDAO
